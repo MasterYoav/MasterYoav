@@ -29,7 +29,7 @@
 
   <!-- Libraries & tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/OpenCV_Logo_without_text.svg" height="40" alt="OpenCV" />
+  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/logo/opencv-logo-white.png" height="40" alt="OpenCV" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://a.fsdn.com/allura/p/wireshark/icon?1609782751" height="40" alt="Wireshark" />
@@ -40,6 +40,7 @@
   <!-- Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 
   <!-- Extra-->
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="40" alt="Excel" />
