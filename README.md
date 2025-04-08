@@ -7,14 +7,14 @@
 
 ### 🧠 Skills & Topics
 
-- 🧵 **System Programming** (C/C++, Java, Python)
-- 🌐 **Web Development (Basic)**  (HTML, CSS, JS)
-- 📊 **Data Structures & Algorithms** 
-- 🕹️ **Game Development** (Logic, GUI & AI logic)
-- 🧠 **Computational Neuroscience**
-- 🌐 **Computer Networking** 
-- 🗃️ **Databases** (SQL, NoSQL, Machine-Learning)
-- 📈 **Excel Automation** (formulas, barcode logic, data integrity)
+-  **System Programming** (C/C++, Java, Python)
+-  **Basic Web Development**  (HTML, CSS, JS)
+-  **Data Structures & Algorithms** 
+-  **Basic Game Development** (Logic, GUI & AI logic)
+-  **Computational Neuroscience**
+-  **Computer Networking** 
+-  **Databases** (SQL, NoSQL, Machine-Learning)
+-  **Excel Automation** (formulas, barcode logic, data integrity)
 
 ---
 
