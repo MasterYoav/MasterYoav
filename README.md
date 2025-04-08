@@ -29,8 +29,10 @@
 
   <!-- Libraries & tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/OpenCV_Logo_with_text.png" height="40" alt="OpenCV" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/WiresharkFoundation/wireshark.org/master/assets/img/wireshark-icon.svg" height="40" alt="Wireshark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
@@ -39,10 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 
-  <!-- Extra: Excel, Wireshark, OpenCV -->
+  <!-- Extra-->
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="40" alt="Excel" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Wireshark_Logo.svg" height="40" alt="Wireshark" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/OpenCV_logo_black.svg" height="40" alt="OpenCV" />
 </p>
 
 
