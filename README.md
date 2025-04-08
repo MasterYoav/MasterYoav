@@ -29,8 +29,7 @@
 
   <!-- Libraries & tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/OpenCV_Logo_with_text.png" height="40" alt="OpenCV" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.svg" height="40" alt="OpenCV" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://raw.githubusercontent.com/WiresharkFoundation/wireshark.org/master/assets/img/wireshark-icon.svg" height="40" alt="Wireshark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
