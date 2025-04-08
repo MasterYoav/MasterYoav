@@ -29,7 +29,7 @@
 
   <!-- Libraries & tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/OpenCV_Logo_with_text_svg_version.svg" height="40" alt="OpenCV" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/OpenCV_Logo_without_text.svg" height="40" alt="OpenCV" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://a.fsdn.com/allura/p/wireshark/icon?1609782751" height="40" alt="Wireshark" />
