@@ -1,5 +1,3 @@
-### Hi, I'm Yoav
-
 🎓 B.Sc. Computer & Data Science student  
 🎯 Precision-focused Programmer/ Data Analist with strong low-level and theoretical background  
 
