@@ -35,5 +35,3 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
-
-> “Code must be clean, fast, and correct — in that order.”
