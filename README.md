@@ -1,5 +1,5 @@
 🎓 B.Sc. Computer & Data Science student  
-🎯 Precision-focused Programmer/ Data Analist with strong low-level and theoretical background  
+🎯 Precision-focused Programmer/ Data Analist with a sharp focus on low-level system design, algorithmic efficient coding, and problem solving. 
 
 ---
 
