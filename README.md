@@ -9,20 +9,20 @@
 
 -  **System Programming** (C/C++, Java, Python)
 -  **Basic Web Development**  (HTML, CSS, JS)
--  **Data Structures & Algorithms** 
+-  **Data Structures & Algorithms**
+-  **Computer Networking**
 -  **Basic Game Development** (Logic, GUI & AI logic)
--  **Computational Neuroscience**
--  **Computer Networking** 
 -  **Databases** (SQL, NoSQL, Machine-Learning)
--  **Excel Automation** (formulas, barcode logic, data integrity)
+-  **Computer-Vision & Image Processing**
+-  **Excel Automation** 
 
 ---
 
 ### 💻 Languages & Technologies
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://matplotlib.org/_static/logo2.svg" height="40" alt="Matplotlib" />
