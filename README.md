@@ -7,12 +7,10 @@
 
 -  **System Programming** (C/C++, Java, Python)
 -  **Basic Web Development**  (HTML, CSS, JS)
--  **Data Structures & Algorithms**
 -  **Computer Networking**
 -  **Basic Game Development** (Logic, GUI & AI logic)
 -  **Databases** (SQL, NoSQL, Machine-Learning)
 -  **Computer-Vision & Image Processing**
--  **Excel Automation** 
 
 ---
 
