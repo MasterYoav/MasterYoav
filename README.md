@@ -8,7 +8,7 @@ Software Developer, passionate about building robust and efficient solutions acr
 - **Backend & Tools:** Node.js,JavaScript, SQL, MongoDB, Git, React  
 - **Testing & QA:** Junit, doctest
 ---
-</## 🚀 Featured Projects
+<>## 🚀 Featured Projects
 
 - **[React Bits](https://github.com/DavidHDev/react-bits)**  
   An open-source collection of animated, interactive & fully customizable React components.
