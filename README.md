@@ -6,14 +6,13 @@ Software Developer passionate about building robust and efficient solutions acro
 ### Tech Stack
 
 -  **System Development** (C/C++17, Java, Python)
--  ** **
 -  **Web Development**  (HTML, CSS, JS)
 ---
 
 ## 📫 Let’s Connect
 
 | 🌐 Website | 💼 LinkedIn | 🐙 GitHub | 📧 Email |
-| :----------: | :--------: | :--------: | :-------: | :------: |
+| :----------: | :--------: | :-------: | :------: |
 | [masteryoav.github.io](https://masteryoav.github.io) | [in/david-haz](https://www.linkedin.com/in/david-haz/) | [@Masteryoav](https://github.com/Masteryoav) | [realyoavperetz@gmail.com](mailto:realyoavperetz@gmail.com) |
 
 ---
