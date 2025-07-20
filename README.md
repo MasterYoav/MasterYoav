@@ -8,12 +8,21 @@ Software Developer, passionate about building robust and efficient solutions acr
 - **Backend & Tools:** Node.js,JavaScript, SQL, MongoDB, Git, React  
 - **Testing & QA:** Junit, doctest
 ---
+</## 🚀 Featured Projects
 
+- **[React Bits](https://github.com/DavidHDev/react-bits)**  
+  An open-source collection of animated, interactive & fully customizable React components.
+- **[Vue Bits](https://github.com/DavidHDev/vue-bits)**  
+  The official Vue port of React Bits, animated Vue components for creative developers.
+- **[Haiku](https://github.com/DavidHDev/haiku)**  
+  A clean & lightweight library of React Hooks & utilities.  
+/>
+---
 ## 📫 Let’s Connect
 
 | 🌐 Website | 💼 LinkedIn | 🐙 GitHub | 📧 Email |
 | :----------: | :--------: | :-------: | :------: |
-| [masteryoav.github.io](https://masteryoav.github.io) | [in/Yoav P](https://www.linkedin.com/in/david-haz/) | [@Masteryoav](https://github.com/Masteryoav) | [realyoavperetz@gmail.com](mailto:realyoavperetz@gmail.com) |
+| [masteryoav.github.io](https://masteryoav.github.io) | [in/Yoav P](https://www.linkedin.com/) | [@Masteryoav](https://github.com/Masteryoav) | [realyoavperetz@gmail.com](mailto:realyoavperetz@gmail.com) |
 
 ---
 
