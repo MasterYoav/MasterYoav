@@ -8,7 +8,7 @@ Software Developer, passionate about building robust and efficient solutions acr
 - **Backend & Tools:** Node.js,JavaScript, SQL, MongoDB, Git, React  
 - **Testing & QA:** Junit, doctest
   
-[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,bash,nodejs,mongodb,sql,opencv,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,bash,nodejs,mongodb,mysql,git,opencv,js,react,html,css)](https://skillicons.dev)
 ---
 <!---## 🚀 Featured Projects
 
