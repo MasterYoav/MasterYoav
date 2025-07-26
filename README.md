@@ -7,6 +7,7 @@ Software Developer, passionate about building robust and efficient solutions acr
 - **System Development** (C/C++17, Java, Python)
 - **Backend & Tools:** Node.js,JavaScript, SQL, MongoDB, Git, React  
 - **Testing & QA:** Junit, doctest
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ---
 <!---## 🚀 Featured Projects
 
