@@ -22,9 +22,9 @@ Software Developer, passionate about building robust and efficient solutions acr
 ---
 ## 📫 Let’s Connect
 
-| 🌐 Website | 💼 LinkedIn | 🐙 GitHub | 📧 Email |
+| 🌐 Website | 💼 LinkedIn | 📧 Email |
 | :----------: | :--------: | :-------: | :------: |
-| [masteryoav.github.io](https://masteryoav.github.io) | [in/Yoav P](https://www.linkedin.com/) | [@Masteryoav](https://github.com/Masteryoav) | [realyoavperetz@gmail.com](mailto:realyoavperetz@gmail.com) |
+| [masteryoav.github.io](https://masteryoav.github.io) | [in/Yoav P](https://www.linkedin.com/) | [realyoavperetz@gmail.com](mailto:realyoavperetz@gmail.com) |
 
 ---
 
