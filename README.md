@@ -19,6 +19,7 @@ Software Developer, passionate about building robust and efficient solutions acr
 - **[Haiku](https://github.com/DavidHDev/haiku)**  
   A clean & lightweight library of React Hooks & utilities.  
 -->
+![Leetcode Stats](https://leetcard.jacoblin.cool/masteryoav)
 ---
 ## 📫 Let’s Connect
 
