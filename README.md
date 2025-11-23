@@ -1,5 +1,5 @@
 # Hi, I’m Yoav 
-Software Developer, passionate about building robust and efficient solutions across multiple programming languages. With strong experience in Java for enterprise applications, C++ for performance-critical systems, and Python for data processing and automation, I enjoy tackling diverse technical challenges. Always eager to learn new technologies and contribute to meaningful projects that make a difference.
+im a Developer, passionate about building solutions across multiple programming languages. I enjoy tackling diverse technical challenges. Always eager to learn new technologies and contribute to meaningful projects that make a difference.
 ---
 
 ### Tech Stack
