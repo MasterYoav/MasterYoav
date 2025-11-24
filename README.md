@@ -10,7 +10,7 @@ Always eager to learn new technologies and contribute to meaningful projects tha
 ### Tech Stack
 
 - **System Development** (C/C++17, Java, Python)
-- **Backend & Tools:** Node.js,JavaScript, SQL, MongoDB, Git, React  
+- **Backend & Tools:** Bash, AWS, Node.js, Docker, JavaScript, SQL, MongoDB, Git, React  
 - **Testing & QA:** Junit, doctest
   
 [![My Skills](https://skillicons.dev/icons?i=java,py,cpp,bash,nodejs,mongodb,mysql,git,docker,aws,opencv,js,react,html,css)](https://skillicons.dev)
