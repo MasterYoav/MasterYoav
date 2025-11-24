@@ -1,6 +1,8 @@
 # Hi, I’m Yoav 
-Software Developer, passionate about building solutions across multiple programming languages.\n
-I enjoy solving technical challenges. \n
+Software Developer, passionate about building solutions across multiple programming languages.
+
+I enjoy solving technical challenges.
+
 Always eager to learn new technologies and contribute to meaningful projects that make a difference.
 ---
 
