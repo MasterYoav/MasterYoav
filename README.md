@@ -6,7 +6,7 @@ I'm a passionate developer, always eager to learn new technologies and contribut
 ### Tech Stack
 
 - **System Development** (C/C++17, Java, Python)
-- **Backend & Tools:** Bash, AWS, Node.js, Docker, JavaScript, SQL, MongoDB, Git, React  
+- **Backend & Tools:** Bash, AWS, Node.js, Docker, SQL, MongoDB, Git  
 - **Testing & QA:** Junit, doctest
   
 [![My Skills](https://skillicons.dev/icons?i=java,py,cpp,bash,nodejs,mongodb,mysql,git,docker,aws,opencv,js,react,html,css)](https://skillicons.dev)
