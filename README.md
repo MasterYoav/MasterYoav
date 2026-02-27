@@ -1,5 +1,4 @@
-# hello, i'm Yoav
-I'm a passionate developer, always eager to learn new technologies and contribute to meaningful projects. I thrive on challenges, building innovative solutions across diverse programming languages.
+A passionate developer, always eager to learn new technologies and contribute to meaningful projects. I thrive on challenges, building innovative solutions across diverse programming languages.
 
 ---
 
