@@ -8,16 +8,15 @@ A passionate developer, always eager to learn new technologies and contribute to
 - **Backend & Tools:** Bash, AWS, Next.js, Docker, SQL, MongoDB, Git  
 - **Testing & QA:** Junit, doctest
 
-![Java](https://img.shields.io/badge/-Java-FA7343?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=python&logoColor=white)
-![docker](https://img.shields.io/badge/-Docker-F7DF1E?style=flat-square&logo=Docker&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-339933?style=flat-square&logo=next.js&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)![Next.js](https://img.shields.io/badge/-Next.js-339933?style=flat-square&logo=next.js&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
   
 [![My Skills](https://skillicons.dev/icons?i=java,py,cpp,bash,nextjs,mongodb,mysql,git,docker,aws,opencv,js,react,html,css)](https://skillicons.dev)
 ---
