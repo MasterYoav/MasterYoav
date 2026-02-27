@@ -19,17 +19,8 @@ A passionate developer, always eager to learn new technologies and contribute to
 - **Testing & QA:** Junit, doctest
 
   
-[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,bash,nextjs,mongodb,mysql,git,docker,aws,opencv,js,react,html,css)](https://skillicons.dev)
 ---
-<!---## 🚀 Featured Projects
 
-- **[React Bits](https://github.com/DavidHDev/react-bits)**  
-  An open-source collection of animated, interactive & fully customizable React components.
-- **[Vue Bits](https://github.com/DavidHDev/vue-bits)**  
-  The official Vue port of React Bits, animated Vue components for creative developers.
-- **[Haiku](https://github.com/DavidHDev/haiku)**  
-  A clean & lightweight library of React Hooks & utilities.  
--->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/masteryoav)
 ---
 ## 📫 Let’s Connect
