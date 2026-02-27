@@ -8,7 +8,7 @@ A passionate developer, always eager to learn new technologies and contribute to
 - **Backend & Tools:** Bash, AWS, Next.js, Docker, SQL, MongoDB, Git  
 - **Testing & QA:** Junit, doctest
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=python&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
