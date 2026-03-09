@@ -23,13 +23,7 @@ A passionate developer, always eager to learn new technologies and contribute to
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/masteryoav)
 ---
-## 📫 Let’s Connect
 
-| 🌐 Website | 💼 LinkedIn | 📧 Email |
-| :----------: | :--------: | :------: |
-| [masteryoav.github.io](https://masteryoav.github.io) | [Yoav Peretz](https://www.linkedin.com/in/yoav-peretz-320056376/) | [realyoavperetz@gmail.com](mailto:realyoavperetz@gmail.com) |
-
----
 
 
 
