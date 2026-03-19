@@ -18,7 +18,7 @@ Feel free to reach out for work-related queries!
 
 
 <a align="center" href="https://x.com/MasterYoav">
-  <img src="https://img.shields.io/twitter/follow/MasterYoav?label=Follow%20%40MasterYoav&style=social" />
+  <img src="https://img.shields.io/twitter/follow/Yoav_Peretz?label=Follow%20%40Yoav_Peretz&style=social" />
 </a>
 
 
