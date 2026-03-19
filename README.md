@@ -14,11 +14,14 @@ A passionate developer, always eager to learn new technologies and contribute to
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
-- **System Development** (C/C++17, Java, Python)
-- **Backend & Tools:** Bash, AWS, Next.js, Docker, SQL, MongoDB, Git  
-- **Testing & QA:** Junit, doctest
+Feel free to reach out for work-related queries!
 
-  
+
+<a align="center" href="https://x.com/MasterYoav">
+  <img src="https://img.shields.io/twitter/follow/MasterYoav?label=Follow%20%40MasterYoav&style=social" />
+</a>
+
+
 ---
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/masteryoav)
