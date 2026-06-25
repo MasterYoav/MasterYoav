@@ -24,7 +24,7 @@ Feel free to reach out for work-related queries!
 
 ---
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/masteryoav)
+*** ![Leetcode Stats](https://leetcard.jacoblin.cool/masteryoav)
 ---
 
 
