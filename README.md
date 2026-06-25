@@ -21,10 +21,8 @@ Feel free to reach out for work-related queries!
   <img src="https://img.shields.io/twitter/follow/YoavPeretz?label=Follow%20%40YoavPeretz&style=social" />
 </a>
 
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/masteryoav) -->
 
----
- ![Leetcode Stats](https://leetcard.jacoblin.cool/masteryoav)
----
 
 
 
